@@ -1,0 +1,1 @@
+Welcome to my project. This is a simple tool written in Python which aims to edit photo parameters, requiring no pre-knowledge or technologies of users. Tell the robot what edition has to be made, and that's all!
